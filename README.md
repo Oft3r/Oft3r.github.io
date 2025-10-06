@@ -1,5 +1,3 @@
-# Oft3r.github.io
-
 <!--
   README built to position Elier (Oft3r) as a Web3 builder and automation specialist.
   Update metrics, contact links, and visual assets with your production information before publishing.
